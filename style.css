@@ -1,0 +1,19 @@
+#banner-container{
+    background-image: url(images/banner.png);
+    background-repeat: no-repeat;
+    background-position:100% 100%;
+    width: 1180px;
+    height: 560px;
+    margin: auto;
+}
+.button{
+background-color: #00ff00;
+}
+.seat_style{
+    
+    display:flex ;
+    justify-content:space-around;
+    padding: 10px;
+    
+
+}
